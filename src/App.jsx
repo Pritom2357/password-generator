@@ -59,7 +59,7 @@ function App() {
   return (
     <>
       <div className="max-w-md mx-auto shadow-xl rounded-xl p-4 my-8 text-orange-500 bg-gray-800">
-        <h1 className="text-2xl font-bold mb-4 text-center">Enhanced Password Generator</h1>
+        <h1 className="text-2xl font-bold mb-4 text-center">Password Generator</h1>
 
         <div className="flex shadow mb-4 h-12">
           <input
